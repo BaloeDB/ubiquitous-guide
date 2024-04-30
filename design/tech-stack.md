@@ -7,7 +7,7 @@
 - **Library**: React
 - **Programming Language**: TypeScript
 - **State Management**: React's built-in useState hook (Redux is not necessary for this simplified project)
-- **Styling**: CSS or a CSS-in-JS library like styled-components
+- **Styling**: Tailwind
 
 **Testing:**
 - **Backend Testing**: JUnit (Java)
