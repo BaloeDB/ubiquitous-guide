@@ -1,3 +1,6 @@
+**Product Goal** 
+To develop a user-friendly and secure Event Management System that allows users to create, update, delete, and view events. The system should also provide features for users to RSVP to events and receive email reminders. The goal is to make event management easy and efficient for users, thereby enhancing their productivity and experience.
+
 1. **User Registration and Authentication**:
    - As a user, I want to register an account so that I can create and manage my own events.
    - As a user, I want to log in to my account so that I can access my personal data and events.
