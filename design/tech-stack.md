@@ -1,7 +1,7 @@
 **Backend:**
 - **Framework**: Spring Boot
 - **Programming Language**: Java
-- **In-Memory Database**: H2 or a simple Java List
+- **Database**: Postgresql
 
 **Frontend:**
 - **Library**: React
