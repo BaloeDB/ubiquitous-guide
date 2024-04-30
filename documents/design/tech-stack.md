@@ -1,13 +1,13 @@
 **Backend:**
 - **Framework**: Spring Boot
 - **Programming Language**: Java
-- **In-Memory Database**: H2 or a simple Java List
+- **Database**: Postgresql
 
 **Frontend:**
 - **Library**: React
-- **Programming Language**: JavaScript
+- **Programming Language**: TypeScript
 - **State Management**: React's built-in useState hook (Redux is not necessary for this simplified project)
-- **Styling**: CSS or a CSS-in-JS library like styled-components
+- **Styling**: Tailwind
 
 **Testing:**
 - **Backend Testing**: JUnit (Java)
